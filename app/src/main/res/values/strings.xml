@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My_First_Android_Application</string>
+    <string name="intro">Intro to android DEV</string>
+    <string name="second_activity">Second Activity</string>
 </resources>
